@@ -1,0 +1,5 @@
+{
+  "name": "playwright",
+  "version": "0.1.0",
+  "description": "Multi-agent Playwright test generation system that creates thorough, production-ready test suites one page at a time"
+}
